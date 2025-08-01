@@ -26,3 +26,8 @@ Tracking my journey from Industrial Maintenance Trainee to AI/Robotics Technicia
 
 3. **PLC Mini Project (Planned)** 
    - Simulate conveyor belt with light sensor logic
+
+### Python Script #1 – Uptime Logger
+- Logs system uptime with a timestamp to `uptime_log.txt`
+- First step toward machine health monitoring for industrial automation
+- Demonstrates Python file handling and system interaction
